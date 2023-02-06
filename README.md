@@ -4,7 +4,7 @@ ReVanced manager has been released. Please go [here](https://github.com/revanced
 
 # Termux 
 
-Download termux app from f-droid or release files from [this repo](https://github.com/n-34/revanced-termux/releases/download/main/Termux_0.118.0.apk).
+Download termux app from [f-droid](https://f-droid.org/en/packages/com.termux) or release files from [this repo](https://github.com/n-34/revanced-termux/releases/download/main/Termux_0.118.0.apk).
 
 
 Run the following commands serially:
