@@ -4,10 +4,12 @@ ReVanced manager has been released. Please go [here](https://github.com/revanced
 
 # Termux 
 
-Download termux app from [f-droid](https://f-droid.org/en/packages/com.termux) or release files from [this repo](https://github.com/n-34/revanced-termux/releases/download/main/Termux_0.118.0.apk).
+Watch this [YouTube video](https://youtu.be/CAp8X0fC1to) for reference.
+
+Now at first download termux app from [f-droid](https://f-droid.org/en/packages/com.termux) or release files from [this repo](https://github.com/n-34/revanced-termux/releases/download/main/Termux_0.118.0.apk).
 
 
-Run the following commands serially:
+Then run the following commands serially:
 
 
 - `termux-setup-storage`
